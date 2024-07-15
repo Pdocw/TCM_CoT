@@ -1,4 +1,4 @@
-## TCM CoT: Controllable Notes Generation for Traditional Chinese Medicine Medical Records with Large Language Models
+# TCM CoT: Controllable Notes Generation for Traditional Chinese Medicine Medical Records with Large Language Models
 
 #### Methods
 
